@@ -1,7 +1,12 @@
 # Introduction-to-Deep-Learning-From-Logical-Calculus-to-Artificial-Interlligence
 对于《深入浅出深度学习：从逻辑运算到人工智能》此书中的学习记录
 
-对前馈神经网络中书上范例的代码进行了一点修改
+对前馈神经网络中书上范例的代码进行了一点修改,运行结果放在result.txt文件中
+
+
+
+
+
 
 环境配置中的常见问题：
 
