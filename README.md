@@ -4,11 +4,7 @@
 对前馈神经网络中书上范例的代码进行了一点修改,运行结果放在result.txt文件中
 
 
-
-
-
-
-环境配置中的常见问题：
+**环境配置中的常见问题：**
 
 ImportError: DLL load failed while importing _pywrap_tensorflow_internal: 找不到指定的模块。
 
