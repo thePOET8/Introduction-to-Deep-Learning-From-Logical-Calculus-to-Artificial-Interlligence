@@ -26,3 +26,7 @@ tensorboard和tensorflow-intel所需要的protobuf包与安装的那个包之间
 tensorboard要求protobuf的版本大于或等于3.19.6，而tensorflow-intel要求protobuf的版本大于或等于3.20.3但小于5.0.0dev。
 
 解决这个问题，你可以将 protobuf 包升级到与 tensorboard 和 tensorflow-intel 都兼容的版本。
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+NLP部分我暂时没有直接学习需求，等到空闲时间立即更新NLP部分
