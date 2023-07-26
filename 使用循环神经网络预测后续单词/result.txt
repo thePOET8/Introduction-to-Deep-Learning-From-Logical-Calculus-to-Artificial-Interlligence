@@ -1,0 +1,56 @@
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python311\python.exe C:\Users\Lenovo\Desktop\使用循环神经网络预测后续单词\main.py 
+> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <
+Cycle: 1
+Epoch 1/3
+3/3 [==============================] - 0s 3ms/step - loss: 0.0097
+Epoch 2/3
+3/3 [==============================] - 0s 1ms/step - loss: 0.0097
+Epoch 3/3
+3/3 [==============================] - 0s 1ms/step - loss: 0.0097
+Generating test from test index 96: ['observed', 'corrupted', 'image']
+THE COMPLETE RESULTING SENTENCE IS: observedcorruptedimage propose
+
+> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <
+Cycle: 2
+Epoch 1/3
+3/3 [==============================] - 0s 2ms/step - loss: 0.0097
+Epoch 2/3
+3/3 [==============================] - 0s 1ms/step - loss: 0.0097
+Epoch 3/3
+3/3 [==============================] - 0s 2ms/step - loss: 0.0097
+Generating test from test index 52: ['and', 'degradation-guided', 'restoration']
+THE COMPLETE RESULTING SENTENCE IS: anddegradation-guidedrestoration propose
+
+> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <
+Cycle: 3
+Epoch 1/3
+3/3 [==============================] - 0s 2ms/step - loss: 0.0097
+Epoch 2/3
+3/3 [==============================] - 0s 1ms/step - loss: 0.0097
+Epoch 3/3
+3/3 [==============================] - 0s 1ms/step - loss: 0.0097
+Generating test from test index 4: ['study', 'a', 'challenging']
+THE COMPLETE RESULTING SENTENCE IS: studyachallenging propose
+
+> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <
+Cycle: 4
+Epoch 1/3
+3/3 [==============================] - 0s 1ms/step - loss: 0.0097
+Epoch 2/3
+3/3 [==============================] - 0s 2ms/step - loss: 0.0097
+Epoch 3/3
+3/3 [==============================] - 0s 1ms/step - loss: 0.0097
+Generating test from test index 12: ['how', 'to', 'develop']
+THE COMPLETE RESULTING SENTENCE IS: howtodevelop propose
+
+> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <> - <
+Cycle: 5
+Epoch 1/3
+3/3 [==============================] - 0s 2ms/step - loss: 0.0097
+Epoch 2/3
+3/3 [==============================] - 0s 1ms/step - loss: 0.0097
+Epoch 3/3
+3/3 [==============================] - 0s 1ms/step - loss: 0.0097
+Generating test from test index 35: ['propose', 'an', 'all-inone']
+THE COMPLETE RESULTING SENTENCE IS: proposeanall-inone propose
+
